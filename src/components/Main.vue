@@ -41,6 +41,10 @@ export default class Main extends Vue {
             url: '/booster'
         },
         {
+            title: 'Shopping',
+            url: '/shopping'
+        },
+        {
             title: 'Store',
             url: '/store'
         }
